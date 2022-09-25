@@ -4,5 +4,6 @@ My personal Astro starter template that packs with Tailwind CSS, Typescript esli
 
 ## Usage
 
+- Clone this project.
 - Run `npm install`
 - Run `npm run dev` to run the app in port 3000.
