@@ -8,7 +8,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@astrojs/tailwind": "^2.0.1",
@@ -19,7 +20,7 @@
     "@types/react": "^18.0.21",
     "@typescript-eslint/parser": "^5.38.0",
     "eslint-config-prettier": "^8.5.0",
-    "husky": "^8.0.1",
+    "husky": "^8.0.0",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1"
   },
