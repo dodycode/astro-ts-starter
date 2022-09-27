@@ -5,5 +5,5 @@ My personal Astro starter template that packs with Tailwind CSS, Typescript esli
 ## Usage
 
 - Clone this project.
-- Run `npm install`
+- Run `npm install` and `npm run prepare` to setup husky
 - Run `npm run dev` to run the app in port 3000.
